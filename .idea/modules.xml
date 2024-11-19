@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonBackEndTask.iml" filepath="$PROJECT_DIR$/.idea/PythonBackEndTask.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/springBackEndTask.iml" filepath="$PROJECT_DIR$/springBackEndTask.iml" />
+>>>>>>> 5f2cfb7f40abafa8cec98a31f9170de72ce4deb3
     </modules>
   </component>
 </project>
