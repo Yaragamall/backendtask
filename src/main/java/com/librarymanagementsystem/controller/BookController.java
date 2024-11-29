@@ -1,5 +1,4 @@
 package com.librarymanagementsystem.controller;
-import com.librarymanagementsystem.Entity.BookEntity;
 import com.librarymanagementsystem.model.Role;
 import com.librarymanagementsystem.model.Book;
 import com.librarymanagementsystem.service.BookService;
